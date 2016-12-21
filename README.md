@@ -14,7 +14,7 @@ I use it in all of my projects, including my [WordPress themes](https://themefor
 * Basic typography flow
 * Basic styling for all elements
 * Basic responsive columns
-* CSS classes for alignments and font sizes (e.g. .alignleft or .size-xxl)
+* CSS classes for alignments and font sizes (e.g. `.alignleft` or `.size-xxl`)
 * Basic WordPress-specific styling for image captions and calendar widget at the end (feel free to delete if not using WordPress). This is needed for passing the theme review.
 
 ## Use it
