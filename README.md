@@ -1,5 +1,5 @@
 # Base
-** Minimal CSS framework optimised for web performance **
+**Minimal CSS framework optimised for web performance**
 
 The smallest CSS framework to add to your project. I use it in all of my projects, including my [WordPress themes](https://themeforest.net/user/darinka?ref=Darinka).
 
