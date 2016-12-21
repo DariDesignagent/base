@@ -5,7 +5,7 @@
 The smallest CSS framework to add to your project. 
 I use it in all of my projects, including my [WordPress themes](https://themeforest.net/user/darinka?ref=Darinka).
 
-Demo
+[Demo](http://designagent.sk/base/)
 
 ## It includes:
 * Eric Meyer's [browser reset](http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/)
