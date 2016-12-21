@@ -24,6 +24,7 @@ I usually add it directly to top of my style.css to save a HTTP call. Or import:
 <link rel="stylesheet" href="base.css" media="all" />  
 ```
 
+### In WordPress
 For use in WordPress, rename the file to editor-style.css and enqueue it right before theme's main stylesheet. The CSS loads on front-end and within the WYSIWYG editor too.
 
 ```
