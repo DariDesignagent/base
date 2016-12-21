@@ -1,7 +1,9 @@
 # Base
-## Minimal CSS framework optimised for web performance
+** Minimal CSS framework optimised for web performance
 
 The smallest CSS framework to add to your project. I use it in all of my projects, including my [WordPress themes](https://themeforest.net/user/darinka?ref=Darinka).
+
+Demo
 
 ## It uses:
 * Eric Meyer's [browser reset](http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/)
@@ -15,5 +17,5 @@ The smallest CSS framework to add to your project. I use it in all of my project
 I usually add it directly to top of my style.css to save a HTTP call.
 
 ```
-code
+<link rel="stylesheet" href="base.css" media="all" />  
 ```
